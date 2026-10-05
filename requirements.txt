@@ -1,0 +1,5 @@
+pandas
+openpyxl
+scikit-llm
+scikit-ollama
+streamlit
